@@ -2,6 +2,6 @@
 
 DataGrabber - Grabs Vacancies Data from hh.ru
 
-Data - 4 Datasets, 500 of vacancy entires in each
+Data - 4 Datasets, 500 of vacancy entries each
 
 Experimental - Me being awful at everything I do
